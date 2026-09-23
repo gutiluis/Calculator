@@ -11,7 +11,7 @@ This calculator will handle addition, subtraction, multiplication, and division 
 
 ```
 git clone https://github.com/gutiluis/Calculator.git
-swift calculator.swift
+swift app.swift
 ```
 
 ---
